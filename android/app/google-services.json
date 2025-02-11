@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90108471288",
+    "project_id": "advanceexam-6951d",
+    "storage_bucket": "advanceexam-6951d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90108471288:android:0c1261914001bb4130580d",
+        "android_client_info": {
+          "package_name": "com.advancedexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5plTT6rDwautTAT4j2oyP1Z907oAg8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
